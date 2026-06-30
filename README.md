@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
