@@ -2,11 +2,14 @@ class Solution:
     def numberOfSubstrings(self, s: str) -> int:
         ans = 0
         i = 0
-        j = 2
-        while j<len(s):
-            if ('a' in s[i:j+1]) and ('b' in s[i:j+1]) and ('c' in s[i:j+1]):
-                ans += len(s)-j
+        cnt = {'a': 0, 'b': 0, 'c': 0}
+
+        for j in range(len(s)):
+            cnt[s[j]] += 1
+
+            while cnt['a'] and cnt['b'] and cnt['c']:
+                ans += len(s) - j
+                cnt[s[i]] -= 1
                 i += 1
-            else:
-                j += 1
-        return ans 
+
+        return ans
