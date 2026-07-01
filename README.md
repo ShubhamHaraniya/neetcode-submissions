@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
