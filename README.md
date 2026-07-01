@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0283-move-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
