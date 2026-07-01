@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0443-string-compression](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
