@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,8 +181,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
