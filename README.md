@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0334-increasing-triplet-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -198,4 +199,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
