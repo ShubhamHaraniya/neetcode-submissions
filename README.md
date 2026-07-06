@@ -217,6 +217,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -239,4 +240,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
 <!---LeetCode Topics End-->
