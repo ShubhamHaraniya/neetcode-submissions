@@ -217,6 +217,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Prefix Sum
@@ -243,9 +244,11 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0437-path-sum-iii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
 <!---LeetCode Topics End-->
