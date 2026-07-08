@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
@@ -152,6 +153,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -182,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
