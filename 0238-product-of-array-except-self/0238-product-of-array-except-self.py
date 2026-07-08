@@ -2,7 +2,7 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         prefix = [1]*len(nums)
         postfix = [1]*len(nums)
-        for i,n in enumerate(nums):
+        for i in range(len(nums)):
             if i == 0:
                 continue
             else:
