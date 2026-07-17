@@ -100,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -175,6 +176,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1657-determine-if-two-strings-are-close](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0374-guess-number-higher-or-lower](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -223,6 +226,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -276,11 +280,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,7 +326,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
