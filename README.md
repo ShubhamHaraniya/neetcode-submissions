@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
+| [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -146,6 +147,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -225,6 +227,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -334,4 +337,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
