@@ -106,6 +106,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3731-find-missing-elements](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
