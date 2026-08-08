@@ -125,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1657-determine-if-two-strings-are-close](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1768-merge-strings-alternately](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -152,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -247,6 +250,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
