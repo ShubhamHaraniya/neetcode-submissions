@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0724-find-pivot-index](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -153,6 +154,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -243,6 +245,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -303,6 +306,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
+| [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Counting
@@ -361,4 +365,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
