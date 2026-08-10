@@ -157,6 +157,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -246,6 +247,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -366,12 +368,23 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
