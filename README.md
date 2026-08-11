@@ -211,6 +211,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -279,6 +280,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -295,11 +297,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0437-path-sum-iii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -391,4 +395,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
