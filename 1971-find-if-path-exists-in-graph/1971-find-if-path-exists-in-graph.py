@@ -8,18 +8,15 @@ class Solution:
             graph[a].append(b)
             graph[b].append(a)
 
-        stack = [source]
-        seen = {source}
+        seen = set()
 
-        while stack:
-            node = stack.pop()
-
+        def dfs(node):
             if node == destination:
                 return True
-
-            for neighbor in graph[node]:
-                if neighbor not in seen:
-                    seen.add(neighbor)
-                    stack.append(neighbor)
-
-        return False
+            seen.add(node)
+            for n in graph[node]:
+                if n  not in seen:
+                    if dfs(n):
+                        return True
+            return False
+        return dfs(source)
