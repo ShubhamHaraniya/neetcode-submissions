@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -188,6 +189,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1657-determine-if-two-strings-are-close](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -199,6 +201,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
