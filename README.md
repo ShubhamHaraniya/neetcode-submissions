@@ -123,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0443-string-compression/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -156,6 +157,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
