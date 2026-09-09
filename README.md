@@ -269,6 +269,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
