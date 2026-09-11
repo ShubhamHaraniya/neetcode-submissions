@@ -226,6 +226,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -300,6 +301,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0841-keys-and-rooms](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -328,6 +330,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0210-course-schedule-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0437-path-sum-iii/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
+| [0841-keys-and-rooms](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
