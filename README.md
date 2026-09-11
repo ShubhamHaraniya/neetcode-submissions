@@ -227,6 +227,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0210-course-schedule-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -239,6 +240,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0200-number-of-islands](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -299,6 +301,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -327,6 +330,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3310-remove-methods-from-project/) | Medium |
