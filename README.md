@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0041-first-missing-positive](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -164,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0392-is-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
@@ -448,4 +450,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0207-course-schedule/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
