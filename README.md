@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -150,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
@@ -305,6 +307,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
