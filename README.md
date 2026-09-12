@@ -268,6 +268,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
@@ -365,6 +366,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0394-decode-string/) | Medium |
@@ -372,6 +374,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
