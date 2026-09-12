@@ -9,9 +9,6 @@ class Solution:
             slow = slow.next 
             fast = fast.next
         
-        if slow.next is not None:
-            slow.next = slow.next.next
-        else:
-            return slow.next
+        slow.next = slow.next.next
     
         return head.next
