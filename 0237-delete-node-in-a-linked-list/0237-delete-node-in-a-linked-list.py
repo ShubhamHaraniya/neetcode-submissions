@@ -6,17 +6,5 @@
 
 class Solution:
     def deleteNode(self, node):
-        """
-        :type node: ListNode
-        :rtype: void Do not return anything, modify node in-place instead.
-        """
-        current = node
-        prev = current 
-
-        while current.next is not None:
-            current.val,current.next.val = current.next.val, current.val 
-            prev = current
-            current = current.next
-        
-        prev.next = None
-    
+        node.val = node.next.val
+        node.next = node.next.next
