@@ -149,6 +149,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0443-string-compression/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -370,6 +371,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
