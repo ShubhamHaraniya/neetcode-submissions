@@ -8,12 +8,10 @@ class Solution:
         if head is None:
             return head
         current = head
-        ans = ListNode(head.val)
-        while current.next is not None:
-            current = current.next
-            temp = ListNode(current.val)
-            temp.next = ans
-            ans = temp
-        return ans
-
-        
+        prev = None
+        while current is not None:
+            next = current.next
+            current.next = prev
+            prev = current
+            current = next
+        return prev
