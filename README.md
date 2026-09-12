@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
@@ -167,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0940-distinct-subsequences-ii/) | Hard |
