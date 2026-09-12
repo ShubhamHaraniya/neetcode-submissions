@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -168,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1510-stone-game-iv](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Stack
@@ -216,6 +218,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -293,6 +296,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1679-max-number-of-k-sum-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
