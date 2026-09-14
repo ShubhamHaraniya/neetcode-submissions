@@ -7,4 +7,6 @@ class Solution:
             if j < len(g) and g[j] <= s[i]:
                 count += 1
                 j += 1
+            if j == len(g):
+                break
         return count
