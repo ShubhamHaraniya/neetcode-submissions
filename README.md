@@ -159,6 +159,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0088-merge-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -195,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -394,6 +396,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0002-add-two-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
@@ -404,6 +407,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0021-merge-two-sorted-lists](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
