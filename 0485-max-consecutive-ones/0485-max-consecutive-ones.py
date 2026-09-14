@@ -5,7 +5,8 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] == 1:
                 temp += 1
-                l = max(l,temp)
             else:
+                l = max(l,temp)
                 temp = 0
+        l = max(l,temp)
         return l
