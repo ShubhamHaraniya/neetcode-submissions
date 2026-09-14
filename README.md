@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0283-move-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
