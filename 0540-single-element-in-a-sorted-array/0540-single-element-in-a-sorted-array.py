@@ -1,19 +1,11 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
-
-        if len(nums) == 1:
-            return nums[0]
-
-        for i in range(len(nums)):
-
-            if i == 0:
-                if nums[i] != nums[i + 1]:
-                    return nums[i]
-
-            elif i == len(nums) - 1:
-                if nums[i] != nums[i - 1]:
-                    return nums[i]
-
+        lo, hi = 0, len(nums) - 1
+        while lo < hi:
+            mid = (lo + hi) // 2
+            if mid % 2 == 1: mid -= 1   # force mid to even index
+            if nums[mid] == nums[mid + 1]:
+                lo = mid + 2   # pair intact -> single is to the right
             else:
-                if nums[i] != nums[i - 1] and nums[i] != nums[i + 1]:
-                    return nums[i]
+                hi = mid       # pair broken -> single is here or left
+        return nums[lo]
