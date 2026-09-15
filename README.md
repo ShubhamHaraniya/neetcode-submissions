@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0048-rotate-image/) | Medium |
@@ -522,5 +523,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
