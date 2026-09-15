@@ -137,6 +137,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -189,6 +190,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -527,4 +529,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
