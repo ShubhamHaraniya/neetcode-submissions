@@ -1,14 +1,15 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         ans = []
-        for i in range(numRows):
+
+        for i in range(1,numRows + 1):
             temp = []
-            for j in range(i+1):
-                if j == 0 or j == i:
+            for j in range(1,i+1):
+                if j == 1 or j == i:
                     temp.append(1)
-                    continue
-                temp.append(ans[i-1][j-1]+ans[i-1][j])
+                else:
+                    temp.append(ans[-1][j-2] + ans[-1][j-1])
             
             ans.append(temp)
+        
         return ans
-
