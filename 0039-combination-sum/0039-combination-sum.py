@@ -1,24 +1,20 @@
 class Solution:
     def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
-        
         result = []
-
-        def rec(idx,temp,r):
-            if r == 0:
+        temp = []
+        def rec(idx,ri,temp):
+            if ri == 0:
                 result.append(temp.copy())
                 return
-
             if idx == len(candidates):
                 return
             
-            if candidates[idx] <= r:
-                
+            if candidates[idx] <= ri:
                 temp.append(candidates[idx])
-                rec(idx,temp,r-candidates[idx])
+                rec(idx,ri-candidates[idx],temp)
                 temp.pop()
-            
-            rec(idx+1,temp,r)
-        
-        rec(0,[],target)
+            rec(idx+1,ri,temp)
 
-        return result
+        rec(0,target,temp)
+
+        return result    
