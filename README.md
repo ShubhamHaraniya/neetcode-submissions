@@ -310,6 +310,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0060-permutation-sequence/) | Hard |
 | [0877-stone-game](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1140-stone-game-ii/) | Medium |
@@ -416,6 +417,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0060-permutation-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0060-permutation-sequence/) | Hard |
 | [0206-reverse-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0394-decode-string/) | Medium |
