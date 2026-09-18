@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -228,6 +229,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0128-longest-consecutive-sequence](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -343,6 +345,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0088-merge-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0455-assign-cookies/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -408,6 +411,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Simulation
@@ -548,4 +552,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
