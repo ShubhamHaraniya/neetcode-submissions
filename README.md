@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0039-combination-sum/) | Medium |
@@ -165,6 +166,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
@@ -341,6 +343,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
