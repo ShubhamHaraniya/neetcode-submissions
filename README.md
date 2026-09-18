@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
@@ -252,6 +253,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -300,6 +302,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
