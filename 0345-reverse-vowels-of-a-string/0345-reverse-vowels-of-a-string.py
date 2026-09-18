@@ -4,16 +4,18 @@ class Solution:
                   'A', 'E', 'I', 'O', 'U'}
 
         s = list(s)
-        i, j = 0, len(s) - 1
+        l,r = 0,len(s)-1
 
-        while i < j:
-            while i < j and s[i] not in vowels:
-                i += 1
-            while i < j and s[j] not in vowels:
-                j -= 1
-
-            s[i], s[j] = s[j], s[i]
-            i += 1
-            j -= 1
-
+        while l <= r:
+            if s[l] in vowels and s[r] in vowels:
+                s[l],s[r] = s[r],s[l]
+                r -= 1
+                l += 1
+            elif s[l] in vowels:
+                r -= 1
+            elif s[r] in vowels:
+                l += 1
+            else:
+                l += 1
+                r -= 1
         return "".join(s)
