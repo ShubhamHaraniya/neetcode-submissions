@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0040-combination-sum-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
@@ -561,6 +562,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0046-permutations/) | Medium |
 | [0090-subsets-ii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0216-combination-sum-iii/) | Medium |
