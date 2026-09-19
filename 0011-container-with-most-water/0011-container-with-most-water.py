@@ -4,11 +4,11 @@ class Solution:
         max_water = 0
 
         while l <= r:
-            max_water = max(min(height[l],height[r])*(r-l),max_water)
-
             if height[l] <= height[r]:
+                max_water = max(height[l]*(r-l),max_water)
                 l += 1
             else:
+                max_water = max(height[r]*(r-l),max_water)
                 r -= 1
         
         return max_water
