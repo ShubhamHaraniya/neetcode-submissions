@@ -1,13 +1,13 @@
 from collections import defaultdict
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        op = 0
-        seen = defaultdict(int)
+        dic = defaultdict(int)
+        result = 0
         for num in nums:
-            w = k - num
-            if seen[w] >  0:
-                seen[w] -= 1
-                op += 1
-                continue
-            seen[num] += 1
-        return op
+            target = k - num
+            if dic[target] != 0:
+                result += 1
+                dic[target] -= 1
+            else:
+                dic[num] += 1
+        return result
