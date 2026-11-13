@@ -1,5 +1,11 @@
-from collections import Counter
+from collections import defaultdict
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        return Counter(s) == Counter(t)
+        sd = defaultdict(int)
+        td = defaultdict(int)
+        for c in s:
+            sd[c] += 1
+        for c in t:
+            td[c] += 1
+        return sd == td
