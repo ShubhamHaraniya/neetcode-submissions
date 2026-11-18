@@ -1,14 +1,12 @@
 class Solution:
-    def maxArea(self, height: List[int]) -> int:
-        l, r = 0, len(height) -1
-        max_water = 0
-
-        while l <= r:
-            if height[l] <= height[r]:
-                max_water = max(height[l]*(r-l),max_water)
-                l += 1
-            else:
-                max_water = max(height[r]*(r-l),max_water)
+    def maxArea(self, height: list[int]) -> int:
+        l,r = 0, len(height) -1
+        most = 0
+        while l<r:
+            most = max(most,min(height[l],height[r])*(r-l))
+            if height[l] >= height[r]:
                 r -= 1
+            else:
+                l += 1
         
-        return max_water
+        return most
