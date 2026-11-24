@@ -593,5 +593,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0595-big-countries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
