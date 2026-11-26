@@ -593,6 +593,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0577-employee-bonus](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/ShubhamHaraniya/neetcode-submissions/tree/main/1148-article-views-i/) | Easy |
